@@ -5,5 +5,16 @@ output: html_document
 
 # Welcome to my repository
 
-Authors: William Ren
+# Author: William Ren
+
+# SDFGHJKLLUYFVBMRTYUKMBDFGGAKJDHSALFJPIUFJA
+
+library(tidyverse)
+library(oilabs)
+library(infer)
+library(dplyr)
+library(ggplot2)
+
+
+
 
