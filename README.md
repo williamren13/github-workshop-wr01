@@ -15,6 +15,7 @@ library(infer)
 library(dplyr)
 library(ggplot2)
 
+# Commitment?
 
 
 
